@@ -19,15 +19,15 @@
 
 ---
 
-### 👨‍💻: About Me : I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Los Angeles, CA.
+### 👨‍💻 About Me : I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Los Angeles, CA 
   
- - :telescope: I’m working on a bug tracker as a personal project of mine.
+- :telescope: I’m currently working on a bug tracker as a personal project of mine.
 
 - :seedling: Exploring Java and React 💻.
 
-- :zap: In my free time, I like play video games 🎮.
+- :zap: In my free time, I like play to video games 🎮 Currently playing Final Fantasy 7 Remake and Spider-Man <img src="https://media.giphy.com/media/AAB69xYzv2C9W/giphy.gif" width="80">
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danielhernandez918/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danielhernandez918/) or email me at danielhernandez918@gmail.com :email:
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -58,6 +58,8 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=danielhernandez918&theme=dark&background=000000)](https://git.io/streak-stats)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielhernandez918&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
