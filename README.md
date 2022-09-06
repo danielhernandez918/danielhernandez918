@@ -23,7 +23,7 @@
   
 - :telescope: I’m currently working on a bug tracker as a personal project of mine.
 
-- :seedling: Exploring Java and React 💻.
+- :seedling: Exploring Java and React 💻
 
 - :zap: In my free time, I like play to video games 🎮 Currently playing Final Fantasy 7 Remake and Spider-Man <img src="https://media.giphy.com/media/AAB69xYzv2C9W/giphy.gif" width="80">
 
@@ -49,8 +49,18 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" **alt="Github" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VS Code" **alt="VS Code" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
 </div>
+- Languages [Python, JavaScript, Java] <br>
+- Frontend Dvelopment [CSS, HTML, ReactJS, Bootstrap, Sass, Webpack, jQuery, AJAX, JPA] <br>
+- Backend Development [NodeJS, Spring Tool Suite, Express.JS, Flask, Bcrypt, JSP, JSON, npm, Spring Boot, Servlets, Dependency Injection] <br>
+- Databases [MySQL, MongoDB] <br>
+-DevOps [AWS] <br>
+- Software [Postman, MySQL Workbench, VS Code] <br>
+- Version Control Systems [Git, Github] <br>
+- Other [Agile, Scrum, RESTful Architecture & API, MVC]
 
 ---
 
