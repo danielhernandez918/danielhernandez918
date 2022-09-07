@@ -9,7 +9,7 @@
     </a>
   </div>
   <h1>
-    hey there
+    Hey there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
@@ -21,7 +21,7 @@
 
 ### 👨‍💻 About Me : I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Los Angeles, CA 
   
-- :telescope: I’m currently working on a bug tracker as a personal project of mine.
+- :telescope: I’m currently working on a bug tracker as a new personal project of mine.  While also updating projects [Alarm Breaks :alarm_clock:](https://github.com/danielhernandez918/Alarm_Breaks) | [Elden Ring Search :crossed_swords:](https://github.com/danielhernandez918/EldenRingSearch) | [DND Commerce :game_die:](https://github.com/danielhernandez918/DNDcommerce)
 
 - :seedling: Exploring Java and React 💻
 
